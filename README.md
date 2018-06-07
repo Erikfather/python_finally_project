@@ -6,4 +6,10 @@
   （1）运行window1.py文件进入第一个界面:<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2019-55-40%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)<br>
   （2）点击进入系统<br>
-  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2019-55-52%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2019-55-52%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)<br>
+  （3）点击人脸识别<br>
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2020-01-00%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)<br>
+  （4）点击打开图片，此时你可以随意选择图片<br>
+  ![image]()
+  （5）图片选择完后，会在左侧显示出你选择的图片，点击开始检测，得到右侧结果<br>
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2019-58-23%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
