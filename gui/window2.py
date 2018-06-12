@@ -32,6 +32,7 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
         人脸识别
         """
         # TODO: not implemented yet
+        print"人脸识别"
         self.dialog=face_rec_Dialog()
         self.dialog.show()
         #self.close()
