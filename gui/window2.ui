@@ -6,19 +6,19 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>528</width>
-    <height>312</height>
+    <width>618</width>
+    <height>549</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>人脸识别系统</string>
+   <string>图片识别系统</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QWidget" name="verticalLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>80</y>
+      <x>240</x>
+      <y>150</y>
       <width>121</width>
       <height>181</height>
      </rect>
@@ -35,6 +35,13 @@
       <widget class="QPushButton" name="pushButton_2">
        <property name="text">
         <string>照片美颜</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_4">
+       <property name="text">
+        <string>目标检测</string>
        </property>
       </widget>
      </item>

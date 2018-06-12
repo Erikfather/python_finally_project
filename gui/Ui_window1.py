@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/wlw/learn_project/python_homework/pyqt_project/Main_window.ui'
+# Form implementation generated from reading ui file '/home/wlw/learn_project/python_homework/pyqt_project/gui/window1.ui'
 #
 # Created by: PyQt4 UI code generator 4.11.4
 #
@@ -44,8 +44,8 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(_translate("MainWindow", "人脸识别系统", None))
-        self.label.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:26pt; font-weight:600;\">人 脸 识 别 系 统</span></p></body></html>", None))
+        MainWindow.setWindowTitle(_translate("MainWindow", "图片识别系统", None))
+        self.label.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:26pt; font-weight:600;\">图 片 识 别 系 统</span></p></body></html>", None))
         self.pushButton.setText(_translate("MainWindow", "进入系统", None))
         self.pushButton_2.setText(_translate("MainWindow", "退出系统", None))
 

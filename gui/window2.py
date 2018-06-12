@@ -9,7 +9,8 @@ from PyQt4.QtGui import QMainWindow
 from PyQt4 import QtCore, QtGui
 from Ui_window2 import Ui_MainWindow2
 from face_rec_gui import face_rec_Dialog
-
+from meiyan_gui import meiyan_Dialog
+from object_detection_gui import object_detection_Dialog
 class MainWindow2(QMainWindow, Ui_MainWindow2):
     """
     Class documentation goes here.
@@ -41,7 +42,8 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
         Slot documentation goes here.
         """
         # TODO: not implemented yet
-        raise NotImplementedError
+        self.dialog=meiyan_Dialog()
+        self.dialog.show()
     
     @pyqtSignature("")
     def on_pushButton_3_clicked(self):
@@ -49,9 +51,17 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
         Slot documentation goes here.
         """
         # TODO: not implemented yet
-        raise NotImplementedError
+        print "纹理图片识别"
 
-
+    @pyqtSignature("")
+    def on_pushButton_4_clicked(self):
+        """
+        Slot documentation goes here.
+        """
+        # TODO: not implemented yet
+        print "目标检测"
+        self.dialog=object_detection_Dialog()
+        self.dialog.show()
 
 
 if __name__ == "__main__":
@@ -61,4 +71,4 @@ if __name__ == "__main__":
     ui.show()
     sys.exit(app.exec_())
     
-   
+
