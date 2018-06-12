@@ -52,6 +52,7 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
     def on_pushButton_3_clicked(self):
         """
         Slot documentation goes here.
+        纹理图片识别
         """
         # TODO: not implemented yet
         print "纹理图片识别"
@@ -60,6 +61,7 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
     def on_pushButton_4_clicked(self):
         """
         Slot documentation goes here.
+        目标检测
         """
         # TODO: not implemented yet
         print "目标检测"
