@@ -44,6 +44,7 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
         照片美颜
         """
         # TODO: not implemented yet
+        print"照片美颜"
         self.dialog=meiyan_Dialog()
         self.dialog.show()
     
