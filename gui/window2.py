@@ -40,6 +40,7 @@ class MainWindow2(QMainWindow, Ui_MainWindow2):
     def on_pushButton_2_clicked(self):
         """
         Slot documentation goes here.
+        照片美颜
         """
         # TODO: not implemented yet
         self.dialog=meiyan_Dialog()
