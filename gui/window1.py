@@ -25,7 +25,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         QMainWindow.__init__(self, parent)
         self.setupUi(self)
         self.setFixedSize(self.width(), self.height())
-        self.setWindowFlags(QtCore.Qt.WindowMaximizeButtonHint)
+  
         
     
     @pyqtSignature("")
@@ -41,7 +41,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.close()
         
 
-
+import background_image_rc
 
 if __name__ == "__main__":
     import sys

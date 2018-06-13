@@ -25,17 +25,24 @@ except AttributeError:
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName(_fromUtf8("MainWindow"))
-        MainWindow.resize(677, 461)
+        MainWindow.resize(650, 437)
+        MainWindow.setStyleSheet(_fromUtf8("border-image: url(:/bg_pic/bg.jpeg);"))
         self.centralWidget = QtGui.QWidget(MainWindow)
         self.centralWidget.setObjectName(_fromUtf8("centralWidget"))
         self.label = QtGui.QLabel(self.centralWidget)
-        self.label.setGeometry(QtCore.QRect(160, 70, 321, 81))
+        self.label.setEnabled(True)
+        self.label.setGeometry(QtCore.QRect(160, 50, 321, 81))
+        self.label.setStyleSheet(_fromUtf8("border-image:url()"))
+        self.label.setScaledContents(False)
+        self.label.setWordWrap(False)
         self.label.setObjectName(_fromUtf8("label"))
         self.pushButton = QtGui.QPushButton(self.centralWidget)
         self.pushButton.setGeometry(QtCore.QRect(260, 200, 121, 31))
+        self.pushButton.setStyleSheet(_fromUtf8("border-image:url()"))
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
         self.pushButton_2 = QtGui.QPushButton(self.centralWidget)
         self.pushButton_2.setGeometry(QtCore.QRect(260, 250, 121, 31))
+        self.pushButton_2.setStyleSheet(_fromUtf8("border-image:url()"))
         self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
         MainWindow.setCentralWidget(self.centralWidget)
 
@@ -49,6 +56,7 @@ class Ui_MainWindow(object):
         self.pushButton.setText(_translate("MainWindow", "进入系统", None))
         self.pushButton_2.setText(_translate("MainWindow", "退出系统", None))
 
+#import background_image_rc
 
 if __name__ == "__main__":
     import sys
