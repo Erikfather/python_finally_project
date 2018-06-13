@@ -16,5 +16,7 @@
   （6）点击返回，退出当前界面进入前一个界面，选择照片美颜，与(4)和(5)类似，点击开始美颜，得到结果<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/meiyan.png)<br>
   （7）同理点击目标检测，最后结果如下:<br>
-  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/object.png)
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/object.png)<br>
+  （8）同理点击纹理图片识别，结果如下：<br>
+  ![image]()
   
