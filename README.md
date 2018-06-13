@@ -4,9 +4,9 @@
 ### 说明：app文件夹中是具体功能的实现，gui文件夹中是界面设计及交互的文件，最后只需要运行gui文件夹下的window1.py文件，就可以进入系统，然后进行相应的控件操作即可。
 ### 目前实现的功能如下：
   （1）运行window1.py文件进入第一个界面:<br>
-  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/1.png)<br>
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/window1.png)<br>
   （2）点击进入系统,进入下面的界面<br>
-  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2.png)<br>
+  ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/window2.png)<br>
   （3）点击人脸识别，进入下面的界面<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2020-01-00%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)<br>
   （4）点击打开图片，此时你可以随意选择图片<br>
