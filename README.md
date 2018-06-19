@@ -1,7 +1,7 @@
 # python_finally_project（利用pyqt开发出一个包含人脸识别、照片美颜、目标检测、纹理图片识别的GUI平台）
 ###### （之前一个星期的内容都被我不小心全删除了，泪崩。。。。原来仓库删除后，之前的贡献也会全部消失！！！手贱啊握草！！！）
 
-### 说明：（用户要运行这个项目，需要安装PyQt4这个库。）app文件夹中是具体功能的实现，gui文件夹中是界面设计及交互的文件，最后只需要运行主程序main.py文件，就可以进入系统，然后进行相应的控件操作即可。(具体过程也可以看视频：out.ogv)
+### 说明：（用户要运行这个项目，需要安装PyQt4这个库。）app文件夹中是具体功能的实现，gui文件夹中是界面设计及交互的文件，最后只需要运行主程序main.py文件，就可以进入系统，然后进行相应的控件操作即可。(具体过程也可以看视频：out.ogv（https://github.com/Erikfather/python_finally_project/blob/master/out.ogv）)
 ### 功能如下：
   （1）运行main.py文件进入第一个界面:<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/window1.png)<br>
