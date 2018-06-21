@@ -15,7 +15,7 @@
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2018-06-07%2019-58-23%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)<br>
   （6）点击返回，退出当前界面进入前一个界面，选择照片美颜，与(4)和(5)类似，点击开始美颜，得到结果<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/meiyan.png)<br>
-  （7）同理点击目标检测，最后结果如下（需要注意的是，这里用到的模型rfcn_resnet101_coco_11_06_2017很大，github无法上传需要另外下载：https://download.csdn.net/download/weixin_40369473/10491085）:<br>
+  （7）同理点击目标检测，最后结果如下（需要注意的是，这里用到的模型rfcn_resnet101_coco_11_06_2017很大，github无法上传需要另外下载：https://download.csdn.net/download/weixin_40369473/10491085:<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/object.png)<br>
   （8）同理点击纹理图片识别，结果如下：<br>
   ![image](https://github.com/Erikfather/python_finally_project/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/buliding_result.png)<br>
